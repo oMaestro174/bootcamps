@@ -1,0 +1,15 @@
+/home/omaestro174/devOps/bootcamps/dio/WEX/DesafioFundamentos/bin/Debug/net9.0/DesafioFundamentos
+/home/omaestro174/devOps/bootcamps/dio/WEX/DesafioFundamentos/bin/Debug/net9.0/DesafioFundamentos.deps.json
+/home/omaestro174/devOps/bootcamps/dio/WEX/DesafioFundamentos/bin/Debug/net9.0/DesafioFundamentos.runtimeconfig.json
+/home/omaestro174/devOps/bootcamps/dio/WEX/DesafioFundamentos/bin/Debug/net9.0/DesafioFundamentos.dll
+/home/omaestro174/devOps/bootcamps/dio/WEX/DesafioFundamentos/bin/Debug/net9.0/DesafioFundamentos.pdb
+/home/omaestro174/devOps/bootcamps/dio/WEX/DesafioFundamentos/obj/Debug/net9.0/DesafioFundamentos.GeneratedMSBuildEditorConfig.editorconfig
+/home/omaestro174/devOps/bootcamps/dio/WEX/DesafioFundamentos/obj/Debug/net9.0/DesafioFundamentos.AssemblyInfoInputs.cache
+/home/omaestro174/devOps/bootcamps/dio/WEX/DesafioFundamentos/obj/Debug/net9.0/DesafioFundamentos.AssemblyInfo.cs
+/home/omaestro174/devOps/bootcamps/dio/WEX/DesafioFundamentos/obj/Debug/net9.0/DesafioFundamentos.csproj.CoreCompileInputs.cache
+/home/omaestro174/devOps/bootcamps/dio/WEX/DesafioFundamentos/obj/Debug/net9.0/DesafioFundamentos.sourcelink.json
+/home/omaestro174/devOps/bootcamps/dio/WEX/DesafioFundamentos/obj/Debug/net9.0/DesafioFundamentos.dll
+/home/omaestro174/devOps/bootcamps/dio/WEX/DesafioFundamentos/obj/Debug/net9.0/refint/DesafioFundamentos.dll
+/home/omaestro174/devOps/bootcamps/dio/WEX/DesafioFundamentos/obj/Debug/net9.0/DesafioFundamentos.pdb
+/home/omaestro174/devOps/bootcamps/dio/WEX/DesafioFundamentos/obj/Debug/net9.0/DesafioFundamentos.genruntimeconfig.cache
+/home/omaestro174/devOps/bootcamps/dio/WEX/DesafioFundamentos/obj/Debug/net9.0/ref/DesafioFundamentos.dll

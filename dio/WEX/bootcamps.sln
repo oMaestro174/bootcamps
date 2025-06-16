@@ -1,0 +1,32 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "dio", "dio", "{3F90916E-E838-D64D-2AA9-C26460864B43}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "WEX", "WEX", "{B0A7983C-1372-4FFC-0705-67E692CE76B8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesafioFundamentos", "dio\WEX\DesafioFundamentos\DesafioFundamentos.csproj", "{577F96FE-D902-5881-B59E-20FE62033397}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{577F96FE-D902-5881-B59E-20FE62033397}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{577F96FE-D902-5881-B59E-20FE62033397}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{577F96FE-D902-5881-B59E-20FE62033397}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{577F96FE-D902-5881-B59E-20FE62033397}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{B0A7983C-1372-4FFC-0705-67E692CE76B8} = {3F90916E-E838-D64D-2AA9-C26460864B43}
+		{577F96FE-D902-5881-B59E-20FE62033397} = {B0A7983C-1372-4FFC-0705-67E692CE76B8}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9969040F-C1BE-48E2-BD96-0D03B0738551}
+	EndGlobalSection
+EndGlobal
