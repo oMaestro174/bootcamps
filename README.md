@@ -1,3 +1,3 @@
 # bootcamps 
 
-Aqui uma coleção de vários Bootcamps que participei ou estõ em andamento
+Aqui uma coleção de vários Bootcamps que participei ou estão em andamento.
